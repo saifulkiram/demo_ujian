@@ -1,4 +1,4 @@
-# LANGKAH2 CONTRIBUT
+## LANGKAH-LANGKAH KONTRIBUSI
 - FORK this repository
 - then clone to your local computer / machine : git clone https://github-link/...
 - create your own branch : git checkout -b your-branch-name
@@ -8,4 +8,4 @@
 - then push to your forked repository
 - create pull request to original repository
 
-# NAMA FOLER : nama-JCWM15
+## NAMA FOLER : nama-JCWM15

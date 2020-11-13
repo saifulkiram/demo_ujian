@@ -8,4 +8,4 @@
 - then push to your forked repository
 - create pull request to original repository
 
-## NAMA FOLER : nama-JCWM15
+## NAMA FOLDER : nama-JCWM15
